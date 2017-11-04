@@ -39,6 +39,8 @@ public class WelcomeActivity extends AppCompatActivity {
     private View mControlsView;
     private static final int UI_ANIMATION_DELAY = 300;
 
+    /*WELCOME ACTIVITY*/
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
